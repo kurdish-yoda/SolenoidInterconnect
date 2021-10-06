@@ -11,6 +11,6 @@ The PCB accepts signals comming from 8 solenoids at once and outputs them at ind
 - 8 solenoid outputs. 
 
 ## Pictures
-![Top_view](https://github.com/SensaGroup/RoboticArm/blob/main/Outputs/Pictures/profile1.jpg)
+![Top_view](https://github.com/kurdish-yoda/SolenoidInterconnect/blob/main/SolenoidInterconnect/Documents/Pictures/front.png)
 
-![Back_view](https://github.com/SensaGroup/RoboticArm/blob/main/Outputs/Pictures/back.jpg)
+![Back_view](https://github.com/kurdish-yoda/SolenoidInterconnect/blob/main/SolenoidInterconnect/Documents/Pictures/back.png)
